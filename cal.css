@@ -1,10 +1,11 @@
 :root{
     /* ---- retro physical-calculator palette (Classic White) ---- */
-    --page-bg: #EDEAE3;
+    
 
-    --body-cream-1: #EFEAD9;
-    --body-cream-2: #E1DAC3;
-    --body-edge: #D6CDB2;
+  --page-bg: ##fff7f7;
+  --body-cream-1: ##ededed;
+  --body-cream-2: #ffffff;
+  --body-edge: #ffffff;
 
     --bezel: #17181A;
     --bezel-ink: #e8e8e8;
