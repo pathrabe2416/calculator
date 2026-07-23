@@ -1,4 +1,4 @@
-# calculator
+# Calculator
 
 # 🧮 Classic Calculator – Modern Web Calculator
 
