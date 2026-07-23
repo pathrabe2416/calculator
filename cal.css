@@ -534,3 +534,22 @@
     .device, .extra-panel{ width: 100%; max-width: 460px; }
     .extra-panel{ max-height: none; }
   }
+
+
+/* cal.css | https://pathrabe2416.github.io/calculator/cal.css */
+
+:root {
+  /* --page-bg: #EDEAE3; */
+  /* --body-cream-1: #EFEAD9; */
+  /* --body-cream-2: #E1DAC3; */
+  /* --body-edge: #D6CDB2; */
+  --page-bg: #E9E6E2;
+  --body-cream-1: #DCDAD3;
+  --body-cream-2: #EBE9E5;
+  --body-edge: #DAD7CD;
+}
+
+/* Inline | https://pathrabe2416.github.io/calculator/ */
+
+.device {
+}
