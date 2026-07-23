@@ -543,8 +543,8 @@
   /* --body-cream-1: #EFEAD9; */
   /* --body-cream-2: #E1DAC3; */
   /* --body-edge: #D6CDB2; */
-  --page-bg: #E9E6E2;
-  --body-cream-1: #DCDAD3;
+  --page-bg: ##fff7f7;
+  --body-cream-1: ##ededed;
   --body-cream-2: #EBE9E5;
   --body-edge: #DAD7CD;
 }
