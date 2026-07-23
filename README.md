@@ -1,18 +1,19 @@
 # calculator
 
-🧮 Classic Calculator – Modern Web Calculator
+# 🧮 Classic Calculator – Modern Web Calculator
 
 A clean, feature-rich calculator built using HTML5, CSS3, and Vanilla JavaScript that combines the nostalgic feel of a classic physical calculator with modern web functionality.
 
 Designed with a professional and minimal interface, the calculator offers standard arithmetic operations, scientific calculations, unit conversion, calculation history, memory functions, customizable themes, and responsive controls—all without using any external libraries or frameworks.
 
-🚀 Live Demo
+# 🚀 Live Demo
 
-👉 Play here:
+## 👉 Play here:
 https://pathrabe2416.github.io/calculator/
 
-✨ Features
-🧮 Standard Calculator
+## ✨ Features
+
+## 🧮 Standard Calculator
 Basic arithmetic operations
 Percentage calculations
 Positive/Negative toggle
@@ -20,7 +21,9 @@ Decimal calculations
 Clear, Clear Entry, and Backspace
 Live expression preview
 Automatic number formatting
-🔬 Scientific Calculator
+
+## 🔬 Scientific Calculator
+
 Trigonometric functions (Sin, Cos, Tan)
 Logarithmic functions (Log, Ln)
 Square Root
@@ -32,7 +35,8 @@ Reciprocal (1/x)
 Parentheses support
 π (Pi) and Euler's Number (e)
 Degree (DEG) and Radian (RAD) modes
-📏 Unit Converter
+
+## 📏 Unit Converter
 
 Supports multiple measurement categories including:
 
@@ -44,7 +48,7 @@ Temperature
 
 with real-time conversion and quick unit swapping.
 
-🧠 Memory Functions
+## 🧠 Memory Functions
 MC (Memory Clear)
 MR (Memory Recall)
 MS (Memory Store)
@@ -53,12 +57,13 @@ M-
 
 Memory is automatically saved using Local Storage.
 
-📜 Calculation History
+## 📜 Calculation History
 Stores previous calculations
 Click history to reuse expressions
 Clear history option
 Persistent history across browser sessions
-🎨 Appearance
+
+## 🎨 Appearance
 
 Two professionally designed calculator themes:
 
@@ -67,7 +72,7 @@ Classic Black
 
 Theme preference is automatically remembered.
 
-⚙️ Additional Features
+## ⚙️ Additional Features
 Keyboard shortcuts
 Responsive layout
 Persistent settings using Local Storage
@@ -75,14 +80,16 @@ Accessible controls
 Clean minimal interface
 Real-time calculation preview
 Mobile-friendly design
-🛠️ Tech Stack
+
+# 🛠️ Tech Stack
+
 HTML5 – Semantic structure
 CSS3 – Responsive layout, custom themes, animations
 Vanilla JavaScript (ES6) – Calculator engine, scientific functions, history management, unit conversion, settings, and UI interactions
 
 No frameworks. No external libraries. Just pure web fundamentals.
 
-🧩 How to Use
+# 🧩 How to Use
 Open the calculator in any modern web browser.
 Perform standard arithmetic calculations.
 Open the Scientific Panel for advanced mathematical functions.
@@ -91,7 +98,9 @@ Save values using the memory buttons.
 Review previous calculations in the History panel.
 Switch between Classic White and Classic Black themes.
 Use keyboard shortcuts for faster calculations.
-⌨️ Keyboard Shortcuts
+
+# ⌨️ Keyboard Shortcuts
+
 Key	Action
 0–9	Numbers
 + − × ÷	Operators
@@ -101,7 +110,8 @@ Backspace	Delete last character
 Escape	Clear calculator
 ( )	Parentheses
 %	Percentage
-🧠 Scientific Functions
+
+# 🧠 Scientific Functions
 
 The calculator includes support for:
 
@@ -113,7 +123,9 @@ Reciprocal
 Absolute values
 Degree/Radian switching
 Mathematical constants
-📏 Supported Unit Conversions
+
+## 📏 Supported Unit Conversions
+
 Length
 Meter
 Kilometer
@@ -147,7 +159,8 @@ Temperature
 Celsius
 Fahrenheit
 Kelvin
-💾 Data Persistence
+
+## 💾 Data Persistence
 
 The calculator uses Browser Local Storage to remember:
 
@@ -158,7 +171,7 @@ Angle mode (DEG/RAD)
 
 Your settings remain available even after refreshing or reopening the browser.
 
-📱 Responsive Design
+# 📱 Responsive Design
 
 The interface is optimized for:
 
@@ -169,13 +182,14 @@ Mobile devices
 
 ensuring a smooth experience across different screen sizes.
 
-📂 Project Structure
+# 📂 Project Structure
 calculator/
 │── index.html
 │── cal.css
 │── cal.js
 │── README.md
-🔮 Future Improvements
+
+# 🔮 Future Improvements
 
 Potential enhancements include:
 
@@ -189,7 +203,7 @@ Calculation export
 More calculator themes
 Calculation statistics
 PWA (Offline support)
-🤝 Contribution
+# 🤝 Contribution
 
 Contributions are welcome.
 
@@ -202,9 +216,6 @@ Submit a Pull Request
 
 Thoughtful improvements are always appreciated.
 
-📄 License
-
-This project is licensed under the MIT License.
 
 ⭐ If you found this project useful, consider giving it a star!
 
